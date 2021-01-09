@@ -14,4 +14,5 @@ track page
 ### Day 2: January 09, 2021 
 
 **Today's Progress**: Worked on Edit, Delete Transaction and auto update Balance, I wasn't liking the UI design, so searched a little bit and switched to a different UI design and finally made a new repo for the expense tracker app.
+
 **Link to Repo:** [Expense Tracker](https://github.com/TahirAnny/Expense_Tracker)
