@@ -19,7 +19,7 @@ track page
 
 ### Day 3: January 10, 2021 
 
-**Today's Progress**: Added a chart to display income, expense ratio. Worked with **Local Storage** to save the data so that whenever a user comes next time, they can see their previous entry. 
+**Today's Progress**: Added a chart to display income, expense ratio. Worked with **Local Storage** to save data, so that whenever a user comes again, they can access their previous entry. 
 
 **Thoughts:** It was really cool to work with local storage
 
