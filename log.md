@@ -16,3 +16,11 @@ track page
 **Today's Progress**: Worked on Edit, Delete Transaction and auto update Balance, I wasn't liking the UI design, so searched a little bit and switched to a different UI design and finally made a new repo for the expense tracker app.
 
 **Link to Repo:** [Expense Tracker](https://github.com/TahirAnny/Expense_Tracker)
+
+### Day 3: January 10, 2021 
+
+**Today's Progress**: Added a chart to display income, expense ratio. Worked with **Local Storage** to save the data so that whenever a user comes next time, they can see their previous entry. 
+
+**Thoughts:** It was really cool to work with local storage
+
+**Demo Link:** [Expense Tracker](https://tahiranny.github.io/Expense_Tracker/)
