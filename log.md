@@ -24,3 +24,9 @@ track page
 **Thoughts:** It was really cool to work with local storage
 
 **Demo Link:** [Expense Tracker](https://tahiranny.github.io/Expense_Tracker/)
+
+### Day 4: January 11, 2021 
+
+**Today's Progress**: Started a new small project, To-Do list app after finishing the previous one, Today I worked on day wise todo entry, mark the completed one and resetting the list.
+
+**Thoughts:** For next few days my plan is to build small projects with vanilla JS. 
