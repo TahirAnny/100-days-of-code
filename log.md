@@ -30,3 +30,8 @@ track page
 **Today's Progress**: Started a new small project, To-Do list app after finishing the previous one, Today I worked on day wise todo entry, mark the completed one and resetting the list.
 
 **Thoughts:** For next few days my plan is to build small projects with vanilla JS. 
+
+### Day 5: January 12, 2021 
+
+**Today's Progress**: Finished To-DO app by adding filtering, Today mostly studied and practiced and planned a draft for next small app.
+
