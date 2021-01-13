@@ -35,3 +35,7 @@ track page
 
 **Today's Progress**: Finished To-DO app by adding filtering, Today mostly studied and practiced and planned a draft for next small app.
 
+### Day 6: January 13, 2021 
+
+**Today's Progress**: Well I always wanted to make a game using JS, so here I am, working on my hangman game. Also studied about JavaScript Scope.
+
