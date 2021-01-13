@@ -37,5 +37,5 @@ track page
 
 ### Day 6: January 13, 2021 
 
-**Today's Progress**: Well I always wanted to make a game using JS, so here I am, working on my hangman game. Also studied about JavaScript Scope.
+**Today's Progress**: Well I always wanted to make a game using JS, so here I am, working on my hangman game. Also studied JavaScript Scope.
 
