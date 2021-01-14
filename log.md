@@ -39,3 +39,8 @@ track page
 
 **Today's Progress**: Well I always wanted to make a game using JS, so here I am, working on my hangman game. Also studied JavaScript Scope.
 
+Day 7: January 14, 2021
+Today's Progress: Continued today with Scope, most of the time spent with scope and execution examples, lexical scope and how block scope works in ES6. Also worked on my
+hangman gaming project, designed the UI and the workflow of the game.
+
+
