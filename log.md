@@ -46,6 +46,4 @@ hangman gaming project, designed the UI and the workflow of the game.
 
 ### Day 8: January 15, 2021
 
-**Today's Progress**: Hangman is on his way, well spent most of the how to actually draw figures using CSS as I literally had no idea how to do that.
-
-
+**Today's Progress**: Hangman is on his way, Done with user input, well spent most of the how-to actually draw figures using CSS as I literally had no idea how to do that. Let's just see...
