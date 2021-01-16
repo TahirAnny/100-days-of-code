@@ -47,3 +47,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 8: January 15, 2021
 
 **Today's Progress**: Hangman is on his way, Done with user input, well spent most of the how-to actually draw figures using CSS as I literally had no idea how to do that. Let's just see...
+
+### Day 9: January 16, 2021
+
+**Today's Progress**: Finished hangman app, not liking my man though, anyway I'll get back to it later and expand the word list. Now concentrating on Functional JS along with node. today I learned about closure.
