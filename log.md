@@ -51,3 +51,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 9: January 16, 2021
 
 **Today's Progress**: Finished hangman app, not liking my man though, anyway I'll get back to it later and expand the word list. Now concentrating on Functional JS along with node. today I learned about closure.
+
+### Day 10: January 17, 2021
+
+**Today's Progress**: Today I dedicated the whole time to understand the async pattern of JS, it will definitely take more time to grab the whole thing I guess.
