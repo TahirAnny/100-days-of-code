@@ -55,3 +55,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 10: January 17, 2021
 
 **Today's Progress**: Today I dedicated the whole time to understand the async pattern of JS, it will definitely take more time to grab the whole thing I guess.
+
+### Day 11: January 18, 2021
+
+**Today's Progress**: Started andrew_j_mead's #NodeJS course. Tomorrow I'll begin making a notes app. Also studied about JS call stack, it's really interesting to know how JS works behind the scene! 
