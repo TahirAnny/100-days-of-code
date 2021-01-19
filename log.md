@@ -59,3 +59,8 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 11: January 18, 2021
 
 **Today's Progress**: Started andrew_j_mead's #NodeJS course. Tomorrow I'll begin making a notes app. Also studied about JS call stack, it's really interesting to know how JS works behind the scene! 
+
+### Day 12: January 19, 2021
+
+**Today's Progress**: Today I learned about modules in Node and I built my first node app which can take notes. 
+
