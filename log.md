@@ -64,3 +64,8 @@ hangman gaming project, designed the UI and the workflow of the game.
 
 **Today's Progress**: Today I learned about modules in Node and I built my first node app which can take notes. 
 
+### Day 13: January 20, 2021
+
+**Today's Progress**: studying file system and debuging in node, also learned abour npm packages. (chalk is so cooooool!)
+
+
