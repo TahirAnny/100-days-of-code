@@ -66,6 +66,6 @@ hangman gaming project, designed the UI and the workflow of the game.
 
 ### Day 13: January 20, 2021
 
-**Today's Progress**: studying file system and debuging in node, also learned abour npm packages. (chalk is so cooooool!)
+**Today's Progress**: studying file systems and debugging in node, also learned about npm packages. (chalk is so cooooool!)
 
 
