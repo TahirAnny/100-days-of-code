@@ -76,4 +76,8 @@ hangman gaming project, designed the UI and the workflow of the game.
 
 **Today's Progress**: as it's my weekend so decided to take a step back and reviewing what I actually learned and worked on the last 5days, started making the weather app with geolocation search.
 
+### Day 16: January 23, 2021
+
+**Today's Progress**: Wrote HTTP request for the weather app, studied error handling and callback function in Node js. 
+
 
