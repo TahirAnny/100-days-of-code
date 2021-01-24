@@ -80,4 +80,6 @@ hangman gaming project, designed the UI and the workflow of the game.
 
 **Today's Progress**: Wrote HTTP request for the weather app, studied error handling and callback function in Node js. 
 
+### Day 17: January 24, 2021
 
+**Today's Progress**: Studied callback function and callback chaining
