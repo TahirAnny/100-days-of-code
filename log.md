@@ -83,3 +83,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 17: January 24, 2021
 
 **Today's Progress**: Studied callback function and callback chaining
+
+### Day 18: January 25, 2021
+
+**Today's Progress**: Started working with web server(express js) for the weather app
