@@ -87,3 +87,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 18: January 25, 2021
 
 **Today's Progress**: Started working with web server(express js) for the weather app
+
+### Day 19: January 26, 2021
+
+**Today's Progress**: learned about Serving up Static Assets and handelbers in Node JS
