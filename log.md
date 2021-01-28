@@ -95,3 +95,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 20: January 27, 2021
 
 **Today's Progress**: Working on the front end of the Weather App and connected it with express server
+
+### Day 21: January 28, 2021
+
+**Today's Progress**: Worked on location search of weather app, previously only current day weather data was fecthing, now it can fetch multiple
