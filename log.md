@@ -99,3 +99,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 21: January 28, 2021
 
 **Today's Progress**: Worked on location search of weather app, previously only current day weather data was fecthing, now it can fetch multiple
+
+### Day 22: January 29, 2021
+
+**Today's Progress**: spent most of the time with UI design of weather app, I kinda **** in designing and meesed up with everything mostly, anyway hopefully will be able to finish it by tomorrow. let's see.... 
