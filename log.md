@@ -103,3 +103,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 22: January 29, 2021
 
 **Today's Progress**: spent most of the time with UI design of the weather app, I kinda **** in designing and messed up with everything mostly, anyway hopefully will be able to finish it by tomorrow. let's see.... 
+
+### Day 23, 24: January 30, 31, 2021
+
+**Today's Progress**: Well got busy with some family stuff, couldn't post last day's update. Finally finished my Weather App, Now exploring MongoDB and preparing for my next app. 
