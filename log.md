@@ -107,3 +107,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 23, 24: January 30, 31, 2021
 
 **Today's Progress**: Well got busy with some family stuff, couldn't post last day's update. Finally finished my Weather App, Now exploring MongoDB and preparing for my next app. 
+
+### Day 25: February 01, 2021
+
+**Today's Progress**: Still studying mongoDB, Querying documents, promises and modifying documents
