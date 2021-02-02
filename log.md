@@ -111,3 +111,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 25: February 01, 2021
 
 **Today's Progress**: Still studying mongoDB, Querying documents, promises and modifying documents
+
+### Day 26: February 02, 2021
+
+**Today's Progress**: preparing for making the next app (Note app), set up mongoose, created model and done with data visualization part, tomorrow I'll start working on REST Api.
