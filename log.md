@@ -115,3 +115,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 26: February 02, 2021
 
 **Today's Progress**: preparing for making the next app (Note app), set up mongoose, created model and done with data visualization part, tomorrow I'll start working on REST Api.
+
+### Day 27: February 03, 2021
+
+**Today's Progress**: started with REST Api, exploring postman - resource creation and reding enpoints
