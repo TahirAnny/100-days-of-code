@@ -119,3 +119,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 27: February 03, 2021
 
 **Today's Progress**: started with REST Api, exploring postman - resource creation and reding enpoints
+
+### Day 28: February 04, 2021
+
+**Today's Progress**: working on the backend of the note taking app, studied Async/Await and intigrated in my app.
