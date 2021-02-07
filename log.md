@@ -123,3 +123,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 ### Day 28: February 04, 2021
 
 **Today's Progress**: working on the backend of the note taking app, studied Async/Await and intigrated in my app.
+
+### Day 29-31: February 07, 2021
+
+**Today's Progress**: As it was weekend, so paused a little bit and Reviewed object property shorthand, object destructing and Modern JS syntaxes, Played with DOM manipulation. 
