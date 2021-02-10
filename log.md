@@ -128,7 +128,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 
 **Today's Progress**: As it was weekend, so paused a little bit and Reviewed object property shorthand, object destructing and Modern JS syntaxes, Played with DOM manipulation.
 
-### Day 31: February 10, 2021
+### Day 32: February 10, 2021
 
 **Today's Progress**: Working on API authentication- Securely storing password, logging users 
 
