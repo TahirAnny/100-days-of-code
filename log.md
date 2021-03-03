@@ -132,3 +132,7 @@ hangman gaming project, designed the UI and the workflow of the game.
 
 **Today's Progress**: Working on API authentication- Securely storing password, logging users 
 
+### Day 33-53: March 03, 2021
+
+**Today's Progress**: It was a long break, since I updated anything in my 100days of code journal. Inspite of some of my personal and work related issues, sickness and leg injury, I am happy that I was able to finsih my node js course, Leanred a lot from Andrew Mead's this course, such a great instructor, though I wasn't able to code each and everyday. I know It's not the the rule of #100DaysOfCode, but I really don't wanna demotivate myself at which point I am, That's why I am gonna continue from here. My next target is to learn .Net core with React. Hopefully I will be able to finish this journey without any interruption InShaAllah. and one more update, I am gonna discontinue from Twitter, as I feel like these social media takes lots of time, All my updates will be here on GitHub only. Good Luck Tahira ❤
+
