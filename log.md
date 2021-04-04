@@ -140,3 +140,9 @@ hangman gaming project, designed the UI and the workflow of the game.
 
 **Today's Progress**: Before starting with .Net core wanted to explore more on real time communication with signalR with .net, Made a simple coffee order type app just to practice SignalR. Started from scratch dot net version 5, Book Order / List app, did basic CRUD operation, getting to know more about Razor pages, Routing, Tag helpers.  
 
+### Day 67-82: March 17 to April 04, 2021
+
+**Today's Progress**: Well became very much irreguler to update my daily journal, before begening 100 days of code challenge I thought it's no big deal, it's actually hard to continue specially with a full time job. Had to skip 24th and 26th March due to some personal issue, still I really tried hard to make each and every minute count. What I did in last couple of days is - I was exploring .Net Core 5 by doing a project called Bulky Books, I started with a basic CRUD operation. Also learned about MVC request lifecycle- explored routing, HttpHandlers and HttpModules, controller initialization and action method execution etc. Then I studied on Design patterns in C#, and used repository pattern for this project, untestood Repository Pattern Detailed Flow, Architecture, Implemented Repository Interface for my project, then got to know about Unit of Work and tried to implement it in my project. here are some link that helped me to understand Unit Of Work ( 1. [Repository and Unit of Work Pattern](https://www.programmingwithwolfgang.com/repository-and-unit-of-work-pattern/) 2. [Unit Of Work — .NET Core](https://medium.com/@martinstm/unit-of-work-net-core-652f9b6cf894) 3. [Unit of Work Design Pattern](https://www.codeproject.com/Articles/581487/Unit-of-Work-Design-Pattern)) 
+I beleive I needed to study more on design pattern but I continued with my project for now. Now I am working on entity framework core. 
+
+
