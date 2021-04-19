@@ -151,5 +151,9 @@ I beleive I needed to study more on design pattern but I continued with my proje
 
 ### Day 84-96: April 06, 2021 - April 18, 2021
 
-**Today's Progress**: I was working with user managerment in my project, Added user registration, user authorization, sign in with facebook or gmail, email send option after registaring an user, user unlock and lock option for user. It took a long time for me to build a user managerment system from scratch, I must say days spent well with all these good stuffs. Next my plan is to work with product and order management.  
+**Today's Progress**: I was working with user managerment in my project, Added user registration, user authorization, sign in with facebook or gmail, email send option after registaring an user, user unlock and lock option for user. It took a long time for me to build a user managerment system from scratch, I must say days spent well with all these good stuffs. Next my plan is to work with product and order management. 
+
+### Day 897: April 19, 2021
+
+**Today's Progress**: Today I worked on Poduct category and category type, Designed database tables, did CRUD operations, added required JS and view files 
 
