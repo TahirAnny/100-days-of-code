@@ -161,3 +161,13 @@ I beleive I needed to study more on design pattern but I continued with my proje
 
 **Today's Progress**: Most of the time spent with database designing and did crud operation for product, all the basic cruds and table designs are done almost, next I will move forward to details and cart implementation.
 
+### Day 99: April 21, 2021
+
+**Today's Progress**: Worked on showng product details. Before working on cart management I wanted to do a little back ground check, how can I put products on cart in real time. So most of the tme spent doing R&D
+
+### Day 100: April 22, 2021
+
+**Today's Progress**: Worked on adding products in shooping cart, configured session.
+
+NOTE: Well it's the 100th day, never expected I will be able to finish this challenge, despite having so many personal and work related issues and injury I must say it was a great journey. Though I planned to be lot more productive but somehow I could not. I want to start 2nd round of 100days of challenge, but before that I have some other planning, I will obviously continute with my project but it won't included as challenge.
+
