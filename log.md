@@ -171,3 +171,6 @@ I beleive I needed to study more on design pattern but I continued with my proje
 
 NOTE: Well it's the 100th day, never expected I will be able to finish this challenge, despite having so many personal and work related issues and injury I must say it was a great journey. Though I planned to be lot more productive but somehow I could not. I want to start 2nd round of 100days of challenge, but before that I have some other planning, I will obviously continute with my project but it won't included as challenge.
 
+**Project Update- Day 01: Apil 23, 2021
+I am still working on session management for shopping cart, Implemented a default sesson and also figuring out the refresh thing of cart.
+
