@@ -179,3 +179,5 @@ I am still working on session management for shopping cart, Implemented a defaul
 **Day 02: Apil 24, 2021
 Cart was not updating properly, facing some problem with session management, spent most of the time fixing these bugs.
 
+**Day 03-04: Apil 25, 26, 2021
+Well solved my session related problem, now it refresh properly and workes as expected. Now designing the UI of the cart
