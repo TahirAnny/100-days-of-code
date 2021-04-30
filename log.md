@@ -181,3 +181,6 @@ Cart was not updating properly, facing some problem with session management, spe
 
 **Day 03-04: Apil 25, 26, 2021
 Well solved my session related problem, now it refresh properly and workes as expected. Now designing the UI of the cart
+
+**Day 05-07: Apil 27 - 29, 2021
+I was working on UI, facing some problem, solved them then working on email confirmation
