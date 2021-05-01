@@ -184,3 +184,9 @@ Well solved my session related problem, now it refresh properly and workes as ex
 
 **Day 05-07: Apil 27 - 29, 2021
 I was working on UI, facing some problem, solved them then working on email confirmation
+
+**Day 08: Apil 30, 2021
+For some reason can't fire Email, today all the time spent finding the reason behind it, finally found out I was missing some configuration.
+
+**Day 10: May 01, 2021
+Worked on incrementing item in cart
