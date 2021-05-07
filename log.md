@@ -173,20 +173,23 @@ NOTE: Well it's the 100th day, never expected I will be able to finish this chal
 
 ### Project Update
 
-**Day 01: Apil 23, 2021
+**Apil 23, 2021
 I am still working on session management for shopping cart, Implemented a default sesson and also figuring out the refresh thing of cart.
 
-**Day 02: Apil 24, 2021
+**Apil 24, 2021
 Cart was not updating properly, facing some problem with session management, spent most of the time fixing these bugs.
 
-**Day 03-04: Apil 25, 26, 2021
+**Apil 25, 26, 2021
 Well solved my session related problem, now it refresh properly and workes as expected. Now designing the UI of the cart
 
-**Day 05-07: Apil 27 - 29, 2021
+**Apil 27 - 29, 2021
 I was working on UI, facing some problem, solved them then working on email confirmation
 
-**Day 08: Apil 30, 2021
+**Apil 30, 2021
 For some reason can't fire Email, today all the time spent finding the reason behind it, finally found out I was missing some configuration.
 
-**Day 10: May 01, 2021
+**May 01, 2021
 Worked on incrementing item in cart
+
+**May 07, 2021
+Finally finished cart related task, now my litlle project is able to add any item in the cart, successfully remove it and perform the calclatoion and refresh everything smoothly.
